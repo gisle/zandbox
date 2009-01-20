@@ -1,9 +1,11 @@
 ---
-layout: nil
+layout: default
 title: Gisle's GitHub Sandbox
 ---
 
-{{title}}
-=========
+{{page.title}}
+==============
 
-This is some sample text.  Does this work out?
+This is some sample text.  Does this work out?  Nope.
+
+What about now?
