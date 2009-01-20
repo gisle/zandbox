@@ -1,0 +1,9 @@
+---
+layout: post
+title: Foo
+---
+
+{{page.title}}
+===============
+
+Any more success with this then?
