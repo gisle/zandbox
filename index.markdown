@@ -1,4 +1,5 @@
 ---
+layout: nil
 title: Gisle's GitHub Sandbox
 ---
 
