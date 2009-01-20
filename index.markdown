@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gisle's GitHub Sandbox
+prefix: /zandbox/
 ---
 
 {{page.title}}
